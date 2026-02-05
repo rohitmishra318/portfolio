@@ -13,37 +13,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I am a passionate developer and competitive programmer who loves 
+              solving complex problems and building impactful web applications.
+              <br />
+              <br />I am fluent in classics like
+              <i>
+                <b className="purple"> C++, JavaScript, and Python. </b>
+              </i>
               <br />
               <br />
-              I’m proficient in
+              My field of Interest's are building new &nbsp;
+              <i>
+                <b className="purple">Web Technologies and Products </b> and
+                also in areas related to{" "}
+                <b className="purple">
+                  DevOps and Machine Learning.
+                </b>
+              </i>
+              <br />
+              <br />
+              Whenever possible, I also apply my passion for developing products
+              with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Modern Javascript Library and Frameworks
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
-              <br />
-              <br />
-              My key areas of interest include developing
+              &nbsp; like
               <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple"> React.js and Next.js</b>
               </i>
             </p>
           </Col>
